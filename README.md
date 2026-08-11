@@ -71,6 +71,10 @@ models and data to building and deploying applications around them.
 
 ---
 
+## 🎯 Currently Learning
+
+`PyTorch` · `Transformers` · `RAG` · `FastAPI` · `Docker` · `AWS`
+
 ## 🚀 Featured Projects
 
 ### ❤️ I Love You Heart
