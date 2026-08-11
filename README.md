@@ -75,6 +75,8 @@ models and data to building and deploying applications around them.
 
 `PyTorch` · `Transformers` · `RAG` · `FastAPI` · `Docker` · `AWS`
 
+---
+
 ## 🚀 Featured Projects
 
 ### ❤️ I Love You Heart
