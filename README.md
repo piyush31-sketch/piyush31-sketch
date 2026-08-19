@@ -11,7 +11,6 @@
 </div>
 
 ---
----
 
 ## 🎯 Current Mission
 
@@ -31,45 +30,6 @@ Right now, I'm focused on:
 > I don't want to just collect tutorials.  
 > **I want to build things I can actually explain.**
 ---
-## 🧠 What I'm Exploring
-
-I'm working my way through the AI/ML stack — from strong fundamentals
-to building complete intelligent applications.
-
-### 🤖 Machine Learning
-`Scikit-learn` `XGBoost` `LightGBM`
-
-Building models, understanding evaluation metrics, feature engineering,
-and learning how to choose the right approach for a problem.
-
-### 🧠 Deep Learning
-`PyTorch` `TensorFlow` `Keras`
-
-Learning neural networks and gradually moving toward more advanced
-deep learning architectures.
-
-### 👁️ Computer Vision
-`OpenCV` `YOLO` `CNNs`
-
-Exploring how machines can understand images and visual information.
-
-### 💬 NLP & Generative AI
-`Transformers` `Hugging Face` `LLMs`
-
-Moving from traditional NLP toward modern language models and
-AI-powered applications.
-
-### 🔎 RAG & AI Applications
-`RAG` `Embeddings` `Vector Databases`
-
-Learning how to connect language models with external knowledge
-and build useful AI applications.
-
-### 🚀 Deployment
-`FastAPI` `Docker` `REST APIs` `AWS`
-
-Learning how to take a model out of a notebook and turn it into
-something people can actually use.
 
 ---
 ## 🚀 What I'm Building
@@ -122,14 +82,99 @@ Python Turtle, HTML, CSS, and JavaScript.
 
 ---
 
-### 🔮 What's Next?
+## 🧠 What I'm Exploring
 
+I'm working my way through the AI/ML stack — from strong fundamentals
+to building complete intelligent applications.
 
-#003  🧠 Deep Learning Project       🔜
-#004  👁️ Computer Vision Project     🔜
-#005  💬 NLP / LLM Project            🔜
-#006  🔎 RAG Application              🔜
-#007  🚀 Production AI Application    🔜
+### 🤖 Machine Learning
+`Scikit-learn` `XGBoost` `LightGBM`
+
+Building models, understanding evaluation metrics, feature engineering,
+and learning how to choose the right approach for a problem.
+
+### 🧠 Deep Learning
+`PyTorch` `TensorFlow` `Keras`
+
+Learning neural networks and gradually moving toward more advanced
+deep learning architectures.
+
+### 👁️ Computer Vision
+`OpenCV` `YOLO` `CNNs`
+
+Exploring how machines can understand images and visual information.
+
+### 💬 NLP & Generative AI
+`Transformers` `Hugging Face` `LLMs`
+
+Moving from traditional NLP toward modern language models and
+AI-powered applications.
+
+### 🔎 RAG & AI Applications
+`RAG` `Embeddings` `Vector Databases`
+
+Learning how to connect language models with external knowledge
+and build useful AI applications.
+
+### 🚀 Deployment
+`FastAPI` `Docker` `REST APIs` `AWS`
+
+Learning how to take a model out of a notebook and turn it into
+something people can actually use.
+
+---
+
+## 🔮 What's Next?
+
+I'm building my portfolio one project at a time — with every project
+pushing me into a new area of AI/ML.
+
+```text
+#003  🧠 Deep Learning
+      └── Neural networks → PyTorch → Real project
+
+#004  👁️ Computer Vision
+      └── OpenCV → CNNs → Image-based application
+
+#005  💬 NLP & LLMs
+      └── Transformers → Hugging Face → NLP application
+
+#006  🔎 RAG Application
+      └── Embeddings → Vector DB → LLM → Useful AI app
+
+#007  🚀 Production AI
+      └── Model → API → Docker → Deployment → Real users
+```
+
+---
+## 🛠️ My Toolbox
+
+### 🐍 Languages
+`Python` `SQL` `JavaScript` `C++`
+
+### 📊 Data & Machine Learning
+`NumPy` `Pandas` `Matplotlib` `Seaborn`  
+`Scikit-learn` `XGBoost` `LightGBM`
+
+### 🧠 Deep Learning
+`PyTorch` `TensorFlow` `Keras`
+
+### 👁️ Computer Vision
+`OpenCV` `YOLO` `CNNs`
+
+### 💬 NLP & Generative AI
+`Transformers` `Hugging Face`  
+`LangChain` `LlamaIndex` `RAG` `Embeddings`
+
+### ⚙️ Backend & APIs
+`FastAPI` `Flask` `REST APIs`
+
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB`
+
+### 🚀 Deployment & Tools
+`Docker` `GitHub Actions`  
+`Git` `GitHub` `VS Code` `Jupyter`
 
 ---
 
@@ -263,7 +308,6 @@ the entire AI/ML ecosystem overnight. 😄
 <img src="https://raw.githubusercontent.com/piyush31-sketch/piyush31-sketch/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
-
 
 ---
 
