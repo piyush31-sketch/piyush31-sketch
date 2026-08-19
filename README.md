@@ -274,10 +274,12 @@ on interesting AI/ML projects.
 
 ---
 
-### ⚡ Currently Building
+<div align="center">
 
-**My AI/ML portfolio — one project at a time.**
+### ⚡ Currently Building My AI/ML Portfolio
 
-<p align="center">
-  <i>Build. Break. Learn. Improve. Repeat. 🚀</i>
-</p>
+**One project. One skill. One commit at a time.**
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+</div>
