@@ -72,16 +72,64 @@ Learning how to take a model out of a notebook and turn it into
 something people can actually use.
 
 ---
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
-### ❤️ I Love You Heart
+### 📧 Spam Message Classifier — 🚧 In Progress
 
-A creative project combining mathematical equations,
+Currently building an end-to-end machine learning project for detecting
+spam messages.
+
+**Working on:**
+
+- 🧹 Data cleaning & preprocessing
+- 🔎 Exploratory Data Analysis
+- 🧠 Feature engineering
+- 🤖 Model training & comparison
+- 📊 Evaluation & error analysis
+- 🚀 Turning the model into a usable application
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `NLP`
+
+---
+
+### 🎓 Student Placement Prediction — ✅ Completed
+
+An end-to-end machine learning classification project predicting
+student placement outcomes.
+
+**Built with:**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+**Models explored:**
+
+`Logistic Regression` `Random Forest` `SVM` `KNN`
+
+🏆 **Final Model:** Logistic Regression
+
+🔗 [View Project →](https://github.com/piyush31-sketch/student-placement-prediction)
+
+---
+
+### ❤️ I Love You Heart — ✅ Completed
+
+A creative coding project combining mathematical equations,
 Python Turtle, HTML, CSS, and JavaScript.
 
-🔗 [View Project](https://github.com/piyush31-sketch/heart-project)
+🔗 [View Project →](https://github.com/piyush31-sketch/heart-project)
 
-🌐 [Live Demo](https://piyush31-sketch.github.io/heart-project/)
+🌐 [Live Demo →](https://piyush31-sketch.github.io/heart-project/)
+
+---
+
+### 🔮 What's Next?
+
+
+#003  🧠 Deep Learning Project       🔜
+#004  👁️ Computer Vision Project     🔜
+#005  💬 NLP / LLM Project            🔜
+#006  🔎 RAG Application              🔜
+#007  🚀 Production AI Application    🔜
 
 ---
 
