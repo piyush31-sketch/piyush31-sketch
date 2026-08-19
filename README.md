@@ -256,6 +256,17 @@ the entire AI/ML ecosystem overnight. 😄
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/piyush31-sketch/piyush31-sketch/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+
+---
+
 ## 📫 Let's Connect
 
 I'm always interested in learning, building, and collaborating
