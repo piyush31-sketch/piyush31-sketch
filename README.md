@@ -246,6 +246,16 @@ the entire AI/ML ecosystem overnight. 😄
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![Piyush's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=piyush31-sketch&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/piyush31-sketch)
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 I'm always interested in learning, building, and collaborating
