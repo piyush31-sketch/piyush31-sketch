@@ -1,13 +1,16 @@
-</p># Hey, I'm Piyush 👋
+<div align="center">
 
-### AI/ML Engineer in the Making 🤖
+# 👋 Hey, I'm Piyush 
 
-I'm a fourth-year student building hands-on projects across
-**machine learning, deep learning, and intelligent applications.**
+### 🤖 AI/ML Engineer in the Making
 
-I enjoy turning ideas into working systems — from experimenting with
-models and data to building and deploying applications around them.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+my+way+into+AI%2FML;Learning+by+actually+building;Turning+Python+into+real+projects;One+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
+**Build → Break → Learn → Improve → Repeat 🚀**
+
+</div>
+
+---
 ---
 
 ## 🧠 What I'm Exploring
