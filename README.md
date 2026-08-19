@@ -13,73 +13,65 @@
 ---
 ---
 
+## 🎯 Current Mission
+
+I'm learning AI/ML by actually building things — one project at a time.
+
+
+Learn → Build → Break → Debug → Understand → Improve → Ship
+
+Right now, I'm focused on:
+
+- 🐍 Strengthening my Python & ML fundamentals
+- 📊 Building end-to-end machine learning projects
+- 🧠 Understanding models instead of just using them
+- 🚀 Gradually moving from ML → Deep Learning → GenAI
+- 🛠️ Turning projects into real, usable applications
+
+> I don't want to just collect tutorials.  
+> **I want to build things I can actually explain.**
+---
 ## 🧠 What I'm Exploring
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 💬 NLP & LLM Applications
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🚀 AI Application Development
-- 🌐 Model Deployment & APIs
+I'm working my way through the AI/ML stack — from strong fundamentals
+to building complete intelligent applications.
 
----
-
-## 🛠️ Tech I'm Working With
-
-**Languages**
-
-`Python` `SQL` `JavaScript` `C++`
-
-**Machine Learning**
-
+### 🤖 Machine Learning
 `Scikit-learn` `XGBoost` `LightGBM`
 
-**Deep Learning**
+Building models, understanding evaluation metrics, feature engineering,
+and learning how to choose the right approach for a problem.
 
+### 🧠 Deep Learning
 `PyTorch` `TensorFlow` `Keras`
 
-**Computer Vision**
+Learning neural networks and gradually moving toward more advanced
+deep learning architectures.
 
+### 👁️ Computer Vision
 `OpenCV` `YOLO` `CNNs`
 
-**NLP & Generative AI**
+Exploring how machines can understand images and visual information.
 
-`Transformers` `Hugging Face` `LangChain` `LlamaIndex`
+### 💬 NLP & Generative AI
+`Transformers` `Hugging Face` `LLMs`
+
+Moving from traditional NLP toward modern language models and
+AI-powered applications.
+
+### 🔎 RAG & AI Applications
 `RAG` `Embeddings` `Vector Databases`
 
-**Data & Experimentation**
+Learning how to connect language models with external knowledge
+and build useful AI applications.
 
-`NumPy` `Pandas` `Matplotlib` `Seaborn`
-`Jupyter` `MLflow`
+### 🚀 Deployment
+`FastAPI` `Docker` `REST APIs` `AWS`
 
-**Backend & AI APIs**
-
-`FastAPI` `Flask` `REST APIs`
-
-**Databases**
-
-`PostgreSQL` `MySQL` `MongoDB`
-`Redis`
-
-**Deployment & MLOps**
-
-`Docker` `GitHub Actions`
-`AWS` `Google Cloud`
-`CI/CD`
-
-**Developer Tools**
-
-`Git` `GitHub` `VS Code` `Jupyter` `Docker`
+Learning how to take a model out of a notebook and turn it into
+something people can actually use.
 
 ---
-
-## 🎯 Currently Learning
-
-`PyTorch` · `Transformers` · `RAG` · `FastAPI` · `Docker` · `AWS`
-
----
-
 ## 🚀 Featured Projects
 
 ### ❤️ I Love You Heart
