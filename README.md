@@ -34,36 +34,52 @@ Right now, I'm focused on:
 ---
 ## 🚀 What I'm Building
 
-### 📧 Spam Message Classifier — 🚧 In Progress
+### 📧 Spam Message Classifier
+**Status:** 🚧 In Progress
 
-Currently building an end-to-end machine learning project for detecting
-spam messages.
+Building an end-to-end machine learning system for detecting spam messages.
 
-**Working on:**
+**Focus:** `NLP` `Data Preprocessing` `Feature Engineering` `Classification`
 
+**Currently working on:**
 - 🧹 Data cleaning & preprocessing
 - 🔎 Exploratory Data Analysis
-- 🧠 Feature engineering
 - 🤖 Model training & comparison
 - 📊 Evaluation & error analysis
-- 🚀 Turning the model into a usable application
 
-**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `NLP`
+🔗 [View Project →](https://github.com/piyush31-sketch/spam-message-classifier)
 
 ---
 
-### 🎓 Student Placement Prediction — ✅ Completed
+### 🎓 Student Score Predictor
+**Status:** ✅ Completed
 
-An end-to-end machine learning classification project predicting
-student placement outcomes.
+A supervised machine learning project that predicts student scores
+using academic and learning-related features.
 
-**Built with:**
+**Focus:** `Python` `Pandas` `Scikit-learn` `Regression`
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+**What I practiced:**
+- 📊 Feature selection
+- 🔀 Train/test splitting
+- 🤖 Model training
+- 📈 Prediction
+- 📏 Model evaluation
 
-**Models explored:**
+🏆 **Model:** Linear Regression
 
-`Logistic Regression` `Random Forest` `SVM` `KNN`
+🔗 [View Project →](https://github.com/piyush31-sketch/student-score-predictor)
+
+---
+
+### 🎓 Student Placement Prediction
+**Status:** ✅ Completed
+
+An end-to-end machine learning project predicting student placement outcomes.
+
+**Focus:** `Classification` `EDA` `Feature Engineering` `Model Comparison`
+
+**Models:** `Logistic Regression` `Random Forest` `SVM` `KNN`
 
 🏆 **Final Model:** Logistic Regression
 
@@ -71,10 +87,13 @@ student placement outcomes.
 
 ---
 
-### ❤️ I Love You Heart — ✅ Completed
+### ❤️ I Love You Heart
+**Status:** ✅ Completed
 
 A creative coding project combining mathematical equations,
 Python Turtle, HTML, CSS, and JavaScript.
+
+**Focus:** `Python` `Turtle` `HTML` `CSS` `JavaScript`
 
 🔗 [View Project →](https://github.com/piyush31-sketch/heart-project)
 
@@ -222,6 +241,7 @@ more advanced AI systems.
                            ▼
                      🎯 MLOps
 ```
+---
 
 🎯 Where I Am
 
@@ -236,6 +256,7 @@ more advanced AI systems.
 🔎 `RAG` → Upcoming
 
 🚀 `AI Applications` → Long-term
+
 
 
 ### 🎯 The Goal
