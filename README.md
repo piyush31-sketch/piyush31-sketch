@@ -31,6 +31,30 @@ Right now, I'm focused on:
 > **I want to build things I can actually explain.**
 ---
 
+## ⭐ Featured Projects
+
+### 🎓 Student Placement Prediction
+
+End-to-end machine learning classification project covering data
+cleaning, EDA, preprocessing, model comparison, and feature analysis.
+
+`Python` `Pandas` `Scikit-learn`
+
+🔗 [View Project →](https://github.com/piyush31-sketch/student-placement-prediction)
+
+---
+
+### 📧 Spam Message Classifier
+
+Machine learning project focused on detecting spam messages while
+working through an end-to-end NLP classification workflow.
+
+`Python` `Pandas` `Scikit-learn` `NLP`
+
+🚧 **Currently Building**
+
+🔗 [View Project →](https://github.com/piyush31-sketch/spam-message-classifier)
+
 ---
 ## 🚀 What I'm Building
 
