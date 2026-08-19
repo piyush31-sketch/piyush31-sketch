@@ -133,10 +133,116 @@ Python Turtle, HTML, CSS, and JavaScript.
 
 ---
 
-## 📈 My Goal
+## 🗺️ My AI/ML Journey
 
-Build production-oriented AI/ML systems that solve real problems
-and continuously improve as an AI/ML engineer.
+I'm not trying to learn everything at once.
+
+I'm building my foundation first, then gradually moving toward
+more advanced AI systems.
+
+### 🛣️ The Path I'm Building Toward
+
+```text
+                    🤖 AI / ML ENGINEER
+                           │
+                           ▼
+                  🐍 Python & Programming
+                           │
+                           ▼
+                📊 Data & Machine Learning
+                           │
+                           ▼
+                    🧠 Deep Learning
+                           │
+                ┌──────────┴──────────┐
+                ▼                     ▼
+        👁️ Computer Vision       💬 NLP & LLMs
+                │                     │
+                └──────────┬──────────┘
+                           ▼
+                    🤖 Generative AI
+                           │
+                           ▼
+                       🔎 RAG
+                           │
+                           ▼
+                 🚀 AI Applications
+                           │
+                           ▼
+                  🌐 APIs & Backend
+                           │
+                           ▼
+                    ☁️ Deployment
+                           │
+                           ▼
+                     🎯 MLOps
+```
+
+🎯 Where I Am
+
+📊 `Machine Learning` → Building
+
+🧠 `Deep Learning` → Next
+
+💬 `NLP & LLMs` → Exploring
+
+🤖 `Generative AI` → Upcoming
+
+🔎 `RAG` → Upcoming
+
+🚀 `AI Applications` → Long-term
+
+
+### 🎯 The Goal
+
+I want to go beyond:
+
+`Dataset` → `Model` → `Accuracy`
+
+and eventually build:
+
+`Problem` → `Data` → `Model` → `Application` → `API` → `Deployment` → `Real Users`
+
+> The goal isn't to rush through the roadmap.  
+> **It's to actually understand each layer before moving to the next.**
+
+---
+
+## 📚 Currently Learning
+
+I'm focusing on a few things at a time instead of trying to learn
+the entire AI/ML ecosystem overnight. 😄
+
+### 🟢 Building
+
+- Machine Learning
+- End-to-end ML projects
+- Model evaluation
+- Feature engineering
+
+### 🟡 Learning
+
+- PyTorch
+- Deep Learning fundamentals
+- NLP
+- FastAPI
+
+### 🔵 Exploring
+
+- Transformers
+- LLMs
+- RAG
+- Docker
+
+### ⚪ On the Roadmap
+
+- Computer Vision
+- AWS
+- MLOps
+- Production AI
+
+> **One concept at a time. One project at a time.**   
+> I'm more interested in understanding things deeply than rushing through a checklist.
 
 ---
 
